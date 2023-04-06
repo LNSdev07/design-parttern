@@ -13,8 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Enum" />
+
         <option value="Class" />
       </list>
     </option>
@@ -38,16 +37,12 @@
     "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "D:/Design-Partten/design-parttern",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.33103448"
+
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="ClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="corretto-11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ClientTest" />
-      <module name="factory-method" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680797297021</updated>
-      <workItem from="1680797298394" duration="3290000" />
+
     </task>
     <servers />
   </component>
