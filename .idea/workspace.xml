@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+
         <option value="Class" />
       </list>
     </option>
@@ -36,14 +37,12 @@
     "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "D:/Design-Partten/design-parttern",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="ClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClientTest" />
-      <module name="singleton-design-parttern" />
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680797297021</updated>
-      <workItem from="1680797298394" duration="1618000" />
+
     </task>
     <servers />
   </component>
